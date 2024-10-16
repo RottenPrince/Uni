@@ -1,0 +1,36 @@
+\contentsline {section}{\numberline {1}Įvadas}{3}{}%
+\contentsline {subsection}{\numberline {1.1}Projekto pavadinimai}{3}{}%
+\contentsline {subsection}{\numberline {1.2}Projekto Probleminė sritis}{3}{}%
+\contentsline {section}{\numberline {2}Naudotojų poreikių analizė}{4}{}%
+\contentsline {subsection}{\numberline {2.1}Suinteresuotų šalių lūkesčiai}{4}{}%
+\contentsline {subsection}{\numberline {2.2}Pirkėjų poreikių analizė}{6}{}%
+\contentsline {subsubsection}{\numberline {2.2.1}Dabartiniai vartotojų poreikiai}{6}{}%
+\contentsline {paragraph}{\numberline {2.2.1.1}Bandelė su karamele}{6}{}%
+\contentsline {paragraph}{\numberline {2.2.1.2}Senjorai taupo}{6}{}%
+\contentsline {paragraph}{\numberline {2.2.1.3}Ona ieško ūkių}{6}{}%
+\contentsline {paragraph}{\numberline {2.2.1.4}Arvydas skuba}{7}{}%
+\contentsline {subsubsection}{\numberline {2.2.2}Žmonių, veiklų, konteksto ir technologijų charakteristikos}{8}{}%
+\contentsline {subsubsection}{\numberline {2.2.3}Poreikiai ir panaudojimo siekiai}{9}{}%
+\contentsline {subsection}{\numberline {2.3}Parduotuvės}{10}{}%
+\contentsline {subsubsection}{\numberline {2.3.1}Dabartiniai vartotojų poreikiai}{10}{}%
+\contentsline {paragraph}{\numberline {2.3.1.1}Nuošaliai parduotuvei trūksta klientų}{10}{}%
+\contentsline {subsubsection}{\numberline {2.3.2}Žmonių, veiklų konteksto ir technologijų charakteristikos}{10}{}%
+\contentsline {subsubsection}{\numberline {2.3.3}Poreikiai ir panaudojimo siekiai}{10}{}%
+\contentsline {subsection}{\numberline {2.4}Ūkininkai}{11}{}%
+\contentsline {subsubsection}{\numberline {2.4.1}Dabartiniai vartotojų poreikiai}{11}{}%
+\contentsline {paragraph}{\numberline {2.4.1.1}Ūkininkas plečia verslą}{11}{}%
+\contentsline {subsubsection}{\numberline {2.4.2}Žmonių, veiklų, konteksto ir technologijų charakteristikos}{11}{}%
+\contentsline {subsubsection}{\numberline {2.4.3}Poreikiai ir panaudojimo siekiai}{11}{}%
+\contentsline {subsection}{\numberline {2.5}Viešojo transporto poreikių analizė}{12}{}%
+\contentsline {subsubsection}{\numberline {2.5.1}Dabartiniai vartotojų poreikiai}{12}{}%
+\contentsline {paragraph}{\numberline {2.5.1.1}Pamirštas viešasis transportas}{12}{}%
+\contentsline {subsubsection}{\numberline {2.5.2}Žmonių, veiklų, konteksto ir technologijų charakteristikos}{12}{}%
+\contentsline {subsubsection}{\numberline {2.5.3}Poreikiai ir panaudojimo siekiai}{12}{}%
+\contentsline {subsection}{\numberline {2.6}Pavežėjimo paslaugų įmonių poreikių analizė}{13}{}%
+\contentsline {subsubsection}{\numberline {2.6.1}Dabartiniai vartotojų poreikiai}{13}{}%
+\contentsline {subsubsection}{\numberline {2.6.2}Žmonių, veiklų, konteksto ir technologijų charakteristikos}{13}{}%
+\contentsline {subsubsection}{\numberline {2.6.3}Poreikiai ir panaudojimo siekiai}{13}{}%
+\contentsline {subsection}{\numberline {2.7}Duomenų mokslininkų poreikių analizė}{14}{}%
+\contentsline {subsubsection}{\numberline {2.7.1}Žmonių, veiklų, konteksto ir technologijų charakteristikos}{14}{}%
+\contentsline {subsubsection}{\numberline {2.7.2}Poreikiai ir panaudojimo siekiai}{14}{}%
+\contentsline {subsection}{\numberline {2.8}Įkvepiančios dizaino idėjos}{15}{}%

@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "600d3a734bce976f",
+    "type": "split",
+    "children": [
+      {
+        "id": "412e8af58bb93b92",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "b0bf51a2e6039722",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "4 paskaita/sav_spr_4.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c0980bdae663ac52",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "1917f65e88161292",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "4 paskaita/PSK_4.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6c30d7adc5cd1db",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfc70061ceeb85aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "115b69c0cba91ebb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1bc73b5fe1485e39",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7e59ea5c7021f6cc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 207.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "85963ef5f42b9863",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b42752c7daec207",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2a80acac3715739",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4 paskaita/sav_spr_4.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "360c4d4da0655960",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4 paskaita/sav_spr_4.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a56fd02cc0a4a28e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c50a6263b5870933",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4 paskaita/sav_spr_4.pdf"
+              }
+            }
+          },
+          {
+            "id": "dd35827cb01ac7c6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b0bf51a2e6039722",
+  "lastOpenFiles": [
+    "4 paskaita/PSK_4.pdf",
+    "4 paskaita/sav_spr_4.pdf",
+    "1 paskaita/sav_spr_1.pdf",
+    "1 paskaita/PSK_1.pdf",
+    "2 paskaita/PSK_2.pdf",
+    "2 paskaita/prat_2.pdf",
+    "2 paskaita/sav_spr_2.pdf",
+    "4 paskaita/prat_4.pdf",
+    "5 paskaita/PSK_5.pdf",
+    "5 paskaita/prat_5.pdf",
+    "Integralu_lentele.pdf",
+    "Welcome.md"
+  ]
+}
