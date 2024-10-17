@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<obs:bookstore xmlns:obs="https://www.knygos.lt">
+  <inventory>
+    <book id="B012754" instock="true">
+      <title isbn="9789955736868">Mūro istorijos</title>
+      <author>Raimondas Paknys</author>
+      <rating>5</rating>
+      <price>53.99</price>
+      <publication-year>2022-10-23</publication-year>
+      <page_number>224</page_number>
+      <language>lietuvių</language>
+      <reviews>
+        <review>
+          <reviewer>Simonas</reviewer>
+          <rating>5</rating>
+          <comment>Labai laukiau šio albumo, nes buvau R. Paknio parodose. Nuotraukos pasakiškos, atrodo, kad stovi prieš tuos didingus griūvėsius. Rekomenduoju - kiekvieno namų bibliotekai ir tai puiki dovana.</comment>
+        </review>
+      </reviews>
+    </book>
+    <book id="B012589" instock="true">
+      <title isbn="9780300105865">Dieviškoji Komedija</title>
+      <author>Dante Alighieri</author>
+      <rating>4</rating>
+      <price>60,99</price>
+      <publication-year>2019-03-09</publication-year>
+      <page_number>608</page_number>
+      <language>lietuvių</language>
+      <reviews>
+        <review>
+          <reviewer>Jolanta Ž.</reviewer>
+          <rating>5</rating>
+          <comment>Šitaip laukta knyga!!!!</comment>
+        </review>
+        <review>
+          <reviewer>Giedrius</reviewer>
+          <rating>5</rating>
+          <comment>labai graziai isleista puiki klasika</comment>
+        </review>
+      </reviews>
+    </book>
+  </inventory>
+  <obs:customers>
+    <obs:customer>
+      <obs:name>Robertas Valeckas</obs:name>
+      <obs:email>robertas.valeckas@gmail.com</obs:email>
+      <obs:orders>
+        <obs:order>
+          <obs:order-id>O13574135</obs:order-id>
+          <obs:order-date>2024-10-24</obs:order-date>
+          <obs:items>
+            <obs:item>
+              <obs:book-id>B012589</obs:book-id>
+              <obs:quantity>3</obs:quantity>
+            </obs:item>
+          </obs:items>
+        </obs:order>
+        <obs:order>
+          <obs:order-id>O13574135</obs:order-id>
+          <obs:order-date>2024-10-24</obs:order-date>
+          <obs:items>
+            <obs:item>
+              <obs:book-id>B012589</obs:book-id>
+              <obs:quantity>3</obs:quantity>
+            </obs:item>
+          </obs:items>
+        </obs:order>
+      </obs:orders>
+    </obs:customer>
+  </obs:customers>
+</obs:bookstore>
