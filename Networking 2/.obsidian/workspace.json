@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ef65792ac24032c6",
+        "id": "61c8a817e3872a27",
         "type": "tabs",
         "children": [
           {
-            "id": "c4534d3c784053d5",
+            "id": "fbeb1a7777150985",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 3. Network Security Concepts/3.5. Common Network Attacks.md",
+                "file": "Module 3. Network Security Concepts/3.11 Module Practice and Quiz.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 3. Network Security Concepts/3.5. Common Network Attacks.md",
+                "file": "Module 3. Network Security Concepts/3.11 Module Practice and Quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module 3. Network Security Concepts/3.5. Common Network Attacks.md",
+                "file": "Module 3. Network Security Concepts/3.11 Module Practice and Quiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module 3. Network Security Concepts/3.5. Common Network Attacks.md"
+                "file": "Module 3. Network Security Concepts/3.11 Module Practice and Quiz.md"
               }
             }
           }
@@ -146,38 +146,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4534d3c784053d5",
+  "active": "0bf7a80ebda3b59b",
   "lastOpenFiles": [
-    "Module 3. Network Security Concepts/3.5 Images/Pasted image 20241011021917.png",
+    "Module 3. Network Security Concepts/3.11 Images/3.11.1-packet-tracer---network-security-exploration---physical-mode.pdf",
+    "Module 3. Network Security Concepts/3.11 Module Practice and Quiz.md",
+    "Module 3. Network Security Concepts/3.10. Cryptography.md",
+    "Module 3. Network Security Concepts/3.9. Network Security best Practices.md",
+    "Module 3. Network Security Concepts/3.8. IP Services.md",
     "Module 3. Network Security Concepts/3.5. Common Network Attacks.md",
-    "Module 3. Network Security Concepts/3.5 Images/Pasted image 20241011021858.png",
-    "Module 3. Network Security Concepts/3.5 Images/Pasted image 20241011021627.png",
-    "Pasted image 20241011021823.png",
-    "Pasted image 20241011021655.png",
-    "Module 3. Network Security Concepts/3.5 Images/Pasted image 20241011021515.png",
-    "Module 3. Network Security Concepts/3.5 Images/Pasted image 20241011021504.png",
-    "Module 3. Network Security Concepts/3.5 Images/Pasted image 20241011021421.png",
-    "Module 3. Network Security Concepts/3.5 Images/Pasted image 20241011021234.png",
-    "Module 3. Network Security Concepts/3.5 Images/Pasted image 20241011021224.png",
-    "Module 3. Network Security Concepts/3.5.7-lab---social-engineering.pdf",
+    "Module 3. Network Security Concepts/3.7. TCP and UDP Vulnerabilities.md",
     "Module 3. Network Security Concepts/3.4. Malware.md",
-    "Module 3. Network Security Concepts/3.5 Images",
-    "Module 3. Network Security Concepts/3.4 Images",
+    "Module 3. Network Security Concepts/3.2. Threat Actors.md",
+    "Module 3. Network Security Concepts/3.11 Images/3.11.1-packet-tracer---network-security-exploration---physical-mode.pka",
+    "Module 3. Network Security Concepts/3.11 Images",
+    "Module 3. Network Security Concepts/3.10 Images/Pasted image 20241017151843.png",
+    "Module 3. Network Security Concepts/3.10 Images/Pasted image 20241017150848.png",
+    "Module 3. Network Security Concepts/3.10 Images/Pasted image 20241017150023.png",
+    "Module 3. Network Security Concepts/3.10 Images/Pasted image 20241017145948.png",
+    "Module 3. Network Security Concepts/3.10 Images/Pasted image 20241017145925.png",
+    "Module 3. Network Security Concepts/3.10 Images/Pasted image 20241017145853.png",
+    "Module 3. Network Security Concepts/3.10 Images/Pasted image 20241017145814.png",
+    "Module 3. Network Security Concepts/3.10 Images/Pasted image 20241017145752.png",
+    "Module 3. Network Security Concepts/3.10 Images/Pasted image 20241017145657.png",
+    "Module 3. Network Security Concepts/3.10 Images/Pasted image 20241017145629.png",
+    "Module 3. Network Security Concepts/3.6. IP Vulnerabilities and Threats.md",
+    "Module 3. Network Security Concepts/3.8 Images/3.8.8-lab---explore-dns-traffic.pdf",
+    "Module 3. Network Security Concepts/3.10 Images",
+    "Module 3. Network Security Concepts/3.9 Images",
+    "Module 3. Network Security Concepts/3.8 Images",
+    "Module 3. Network Security Concepts/3.1. Current State of Cybersecurity.md",
+    "Module 3. Network Security Concepts/3.7 Images",
+    "Module 3. Network Security Concepts/3.6 Images",
+    "Module 3. Network Security Concepts/3.5 Images/3.5.7-lab---social-engineering.pdf",
     "Module 3. Network Security Concepts/3.3. Threat Actor Tools.md",
     "Module 2. Single-Area OSPFv2 Configuration/2.0. Introduction.md",
-    "Module 3. Network Security Concepts/3.2. Threat Actors.md",
-    "Module 3. Network Security Concepts/3.3. Threat Actor Tools",
     "Module 3. Network Security Concepts/3.0. Introduction.md",
-    "Module 3. Network Security Concepts/3.1. Current State of Cybersecurity.md",
-    "Module 3. Network Security Concepts/3.2 Images",
-    "Module 3. Network Security Concepts/3.1 Images",
-    "Module 3. Network Security Concepts",
     "Module 2. Single-Area OSPFv2 Configuration/2.4. Modify Single-Area OSPFv2.md",
     "Module 2. Single-Area OSPFv2 Configuration/2.3. Multiaccess OSPF Networks.md",
     "Module 2. Single-Area OSPFv2 Configuration/2.2 Point-to-Point OSPF Networks.md",
-    "Module 2. Single-Area OSPFv2 Configuration/2.6 Images",
-    "Module 2. Single-Area OSPFv2 Configuration/2.5 Images",
-    "Module 2. Single-Area OSPFv2 Configuration/2.4 Images",
     "Module 2. Single-Area OSPFv2 Configuration/2.1. OSPF Router ID.md",
     "Module 1. Single-Area OSPFv2 Concepts/1.2 OSPF Packets.md",
     "Module 1. Single-Area OSPFv2 Concepts/1.3. OSPF Operation.md",
