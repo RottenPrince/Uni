@@ -8,7 +8,7 @@
       <price>53.99</price>
       <publication-year>2022-10-23</publication-year>
       <page_number>224</page_number>
-      <language>lietuvių</language>
+      <language>lietuviu</language>
       <reviews>
         <review>
           <reviewer>Simonas</reviewer>
@@ -24,7 +24,28 @@
       <price>60,99</price>
       <publication-year>2019-03-09</publication-year>
       <page_number>608</page_number>
-      <language>lietuvių</language>
+      <language>lietuviu</language>
+      <reviews>
+        <review>
+          <reviewer>Jolanta Ž.</reviewer>
+          <rating>5</rating>
+          <comment>Šitaip laukta knyga!!!!</comment>
+        </review>
+        <review>
+          <reviewer>Giedrius</reviewer>
+          <rating>5</rating>
+          <comment>labai graziai isleista puiki klasika</comment>
+        </review>
+      </reviews>
+    </book>
+    <book id="B012589" instock="false">
+      <title isbn="9785790003677">1984</title>
+      <author>George Orwell</author>
+      <rating>4</rating>
+      <price>4.59</price>
+      <publication-year>1991-05-04</publication-year>
+      <page_number>331</page_number>
+      <language>lietuviu</language>
       <reviews>
         <review>
           <reviewer>Jolanta Ž.</reviewer>

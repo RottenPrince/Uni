@@ -1,0 +1,26 @@
+(1)
+  1. ancestor: /obs:bookstore/obs:customers/obs:customer/obs:orders/obs:order/ancestor::obs:customer
+  2. descendant: /obs:bookstore/obs:customers/obs:customer/obs:orders/obs:order/descendant::obs:book-id
+  3. following-sibling: /obs:bookstore/obs:customers/obs:customer/obs:orders/obs:order[1]/following-sibling::obs:order
+  4. preceding-sibling: /obs:bookstore/obs:customers/obs:customer/obs:orders/obs:order[2]/preceding-sibling::obs:order
+  5. following: /obs:bookstore/obs:customers/obs:customer/obs:orders/obs:order[1]/following::obs:order-date
+  6. preceding: /obs:bookstore/obs:customers/obs:customer/obs:orders/obs:order[2]/preceding::obs:name
+  7. attribute:  /obs:bookstore/inventory/book/attribute::*
+(2)
+  1. Predicate: /obs:bookstore/inventory/book[@instock = 'true']/title
+(3)
+  1. count(//*[text()[normalize-space()]])
+(4)
+  1. //book[rating = 4]/title
+  2. //book[number(rating) + count(reviews/review) > 6]/title 
+  3. //book[number(substring(publication-year, 1, 4)) < 2000]/title 
+(5)
+  1. predicate and two axes: /obs:bookstore/inventory/book[rating < 5]/ancestor::inventory/descendant::book[rating < 5]/title 
+(6)
+  1. aibe ir skaicius: count(//book) = 2
+  2. aibe ir eilute: //book/language = "lietuviu" 
+  3. aibe ir logine reiksme: boolean(//book[@instock="true"]) = true() 
+  4. dvi aibes: //book/rating = //review/rating 
+(7)
+  1. <,> su aibem: //book[number(rating) < //review/rating] 
+
