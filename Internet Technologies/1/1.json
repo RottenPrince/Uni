@@ -1,0 +1,83 @@
+{
+    "bookstore": {
+      "inventory": {
+        "books": [
+          {
+            "id": "B012754",
+            "instock": true,
+            "title": {
+              "name": "Mūro istorijos",
+              "isbn": "9789955736868"
+            },
+            "author": "Raimondas Paknys",
+            "rating": 5,
+            "price": 53.99,
+            "publication_year": "2022-10-23",
+            "page_number": 224,
+            "language": "lietuvių",
+            "reviews": [
+              {
+                "reviewer": "Simonas",
+                "rating": 5,
+                "comment": "Labai laukiau šio albumo, nes buvau R. Paknio parodose. Nuotraukos pasakiškos, atrodo, kad stovi prieš tuos didingus griūvėsius. Rekomenduoju - kiekvieno namų bibliotekai ir tai puiki dovana."
+              }
+            ]
+          },
+          {
+            "id": "B012589",
+            "instock": true,
+            "title": {
+              "name": "Dieviškoji Komedija",
+              "isbn": "9780300105865"
+            },
+            "author": "Dante Alighieri",
+            "rating": 4,
+            "price": 60.99,
+            "publication_year": "2019-03-09",
+            "page_number": 608,
+            "language": "lietuvių",
+            "reviews": [
+              {
+                "reviewer": "Jolanta Ž.",
+                "rating": 5,
+                "comment": "Šitaip laukta knyga!!!!"
+              },
+              {
+                "reviewer": "Giedrius",
+                "rating": 5,
+                "comment": "labai graziai isleista puiki klasika"
+              }
+            ]
+          }
+        ]
+      },
+      "customers": [
+        {
+          "name": "Robertas Valeckas",
+          "email": "robertas.valeckas@gmail.com",
+          "orders": [
+            {
+              "order_id": "O13574135",
+              "order_date": "2024-10-24",
+              "items": [
+                {
+                  "book_id": "B012589",
+                  "quantity": 3
+                }
+              ]
+            },
+            {
+              "order_id": "O13574135",
+              "order_date": "2024-10-24",
+              "items": [
+                {
+                  "book_id": "B012754",
+                  "quantity": 1 
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }

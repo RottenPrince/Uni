@@ -55,12 +55,12 @@
           </obs:items>
         </obs:order>
         <obs:order>
-          <obs:order-id>O13574135</obs:order-id>
-          <obs:order-date>2024-10-24</obs:order-date>
+          <obs:order-id>O15478635</obs:order-id>
+          <obs:order-date>2024-11-02</obs:order-date>
           <obs:items>
             <obs:item>
-              <obs:book-id>B012589</obs:book-id>
-              <obs:quantity>3</obs:quantity>
+              <obs:book-id>B012754</obs:book-id>
+              <obs:quantity>1</obs:quantity>
             </obs:item>
           </obs:items>
         </obs:order>
